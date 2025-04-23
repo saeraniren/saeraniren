@@ -55,9 +55,3 @@ Icon : https://simpleicons.org/
 </p>
 
 <!-- 구분선 -->
-
-<h2 align="center"> solve.ac Tier </h2>
-
-<p align='center'>
-  <img src="http://mazandi.herokuapp.com/api?handle=bionicl12&theme=warm"/>
-</p>
